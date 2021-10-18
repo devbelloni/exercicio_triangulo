@@ -1,0 +1,16 @@
+D:\PROGRAMAÇÃO\C#\ws-vs2019\tiangulo\tiangulo\obj\Debug\net6.0\tiangulo.GlobalUsings.g.cs
+D:\PROGRAMAÇÃO\C#\ws-vs2019\tiangulo\tiangulo\obj\Debug\net6.0\tiangulo.csproj.AssemblyReference.cache
+D:\PROGRAMAÇÃO\C#\ws-vs2019\tiangulo\tiangulo\obj\Debug\net6.0\tiangulo.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMAÇÃO\C#\ws-vs2019\tiangulo\tiangulo\obj\Debug\net6.0\tiangulo.AssemblyInfoInputs.cache
+D:\PROGRAMAÇÃO\C#\ws-vs2019\tiangulo\tiangulo\obj\Debug\net6.0\tiangulo.AssemblyInfo.cs
+D:\PROGRAMAÇÃO\C#\ws-vs2019\tiangulo\tiangulo\obj\Debug\net6.0\tiangulo.csproj.CoreCompileInputs.cache
+D:\PROGRAMAÇÃO\C#\ws-vs2019\tiangulo\tiangulo\bin\Debug\net6.0\tiangulo.exe
+D:\PROGRAMAÇÃO\C#\ws-vs2019\tiangulo\tiangulo\bin\Debug\net6.0\tiangulo.deps.json
+D:\PROGRAMAÇÃO\C#\ws-vs2019\tiangulo\tiangulo\bin\Debug\net6.0\tiangulo.runtimeconfig.json
+D:\PROGRAMAÇÃO\C#\ws-vs2019\tiangulo\tiangulo\bin\Debug\net6.0\tiangulo.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\tiangulo\tiangulo\bin\Debug\net6.0\ref\tiangulo.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\tiangulo\tiangulo\bin\Debug\net6.0\tiangulo.pdb
+D:\PROGRAMAÇÃO\C#\ws-vs2019\tiangulo\tiangulo\obj\Debug\net6.0\tiangulo.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\tiangulo\tiangulo\obj\Debug\net6.0\ref\tiangulo.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\tiangulo\tiangulo\obj\Debug\net6.0\tiangulo.pdb
+D:\PROGRAMAÇÃO\C#\ws-vs2019\tiangulo\tiangulo\obj\Debug\net6.0\tiangulo.genruntimeconfig.cache
